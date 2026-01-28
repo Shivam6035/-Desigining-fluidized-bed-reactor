@@ -20,6 +20,11 @@
 
 ![Vapor phase turbulance](https://github.com/user-attachments/assets/0268e0ab-ba2b-4adb-a481-46bf1f80f21f)
 
+### Turbulence in FBR
+
+![Turbulence FBR](https://github.com/user-attachments/assets/5c69dce0-a4d9-4416-9d61-5f561f46192f)
+
+
 
 
 
