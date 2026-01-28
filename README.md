@@ -1,6 +1,6 @@
 # -Desigining-fluidized-bed-reactor
 
-### set up of FBR
+### Set up of FBR
 
 ![Setup of FDB reactor](https://github.com/user-attachments/assets/826db7c0-ed52-4fe7-bd76-7670e0b829e2)
 
@@ -16,7 +16,7 @@
 ![Temparature_solid_phase](https://github.com/user-attachments/assets/d49e8725-5fbf-4151-893b-06591a3daef2)
 
 
-### vapour Phase Simulation
+### Vapour Phase Simulation
 
 ![Vapor phase turbulance](https://github.com/user-attachments/assets/0268e0ab-ba2b-4adb-a481-46bf1f80f21f)
 
